@@ -45,7 +45,7 @@ docker run -p 8081:8081 workshop
 
 `workshop` is the image name
 
-`-p` is used to map the port from the container to the host
+`-p` is used to map the port from the host to the container
 
 `8081:8081` is the port mapping from the host to the container
 
