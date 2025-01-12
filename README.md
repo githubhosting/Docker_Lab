@@ -31,6 +31,8 @@ First copy the jar and docker files to a folder and navigate to it
 docker build -t workshop .
 ```
 
+`-t` is used to tag the image
+
 ```bash
 docker build -t <docker image name> <docker folder path>
 ```
